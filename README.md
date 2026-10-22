@@ -40,7 +40,7 @@ This project was built as a hands-on exercise to practise backend development an
 2. Navigate to the project directory:
 
    ```bash
-   cd <YOUR_PROJECT_FOLDER>
+   cd task-tracker-api
    ```
 
 3. Install dependencies:
