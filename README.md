@@ -34,7 +34,7 @@ This project was built as a hands-on exercise to practise backend development an
 1. Clone this repository:
 
    ```bash
-   git clone <YOUR_REPOSITORY_URL>
+   git clone https://github.com/soumyadipgayen777-beep/task-tracker-api.git
    ```
 
 2. Navigate to the project directory:
